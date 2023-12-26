@@ -2,7 +2,7 @@
 #   Main Configs https://mazhuang.org  #
 # ---------------- #
 baseurl:
-url: https://pigpigletsgo.github.io/dou_note.github.io/
+url: https://pigpigletsgo.github.io/dou_note.github.io
 date_format: "ordinal"
 title: 码志
 subtitle: "123"
