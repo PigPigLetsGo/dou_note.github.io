@@ -2,7 +2,7 @@
 #   Main Configs https://mazhuang.org  #
 # ---------------- #
 baseurl:
-url: 
+url: https://www.baidu.com
 date_format: "ordinal"
 title: 码志
 subtitle: "123"
