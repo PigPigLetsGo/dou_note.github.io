@@ -1,8 +1,8 @@
 # ---------------- #
-#   Main Configs   #
+#   Main Configs https://mazhuang.org  #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: 
 date_format: "ordinal"
 title: 码志
 subtitle: "123"
