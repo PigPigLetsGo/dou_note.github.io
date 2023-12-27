@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  链表
-categories: [java,数据结构与算法]
+categories: [java,数据结构与算法,链表]
 description: 链表的详细介绍。
 keywords: 数据结构
 ---
