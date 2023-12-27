@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  稀疏数组
-categories: [java,数据结构与算法]
+categories: [java,数据结构与算法,数组]
 description: 如何将二维数组转换为稀疏数组。
 keywords: 算法
 ---
