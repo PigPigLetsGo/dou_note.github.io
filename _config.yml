@@ -4,14 +4,14 @@
 baseurl:
 url: https://pigpigletsgo.github.io/dou_note.github.io
 date_format: "ordinal"
-title: 码志
-subtitle: "123"
-description: "123"
-keywords: 码志, Zhuang
+title: 代码仓库
+subtitle: "Pig的个人博客"
+description: "Pig"
+keywords: 个人，大众
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
-since: 2015
+since: 2023
 # 源码仓库，请替换成自己的
 repository: PigPigLetsGo/dou_note.github.io
 # 对 css 和 js 资源的 cdn 加速配置
