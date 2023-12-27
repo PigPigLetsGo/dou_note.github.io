@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  选择排序
-categories: [java,数据结构与算法]
+categories: [java,数据结构与算法,排序]
 description: 选择排序的详细介绍。
 keywords: 数据结构
 ---
