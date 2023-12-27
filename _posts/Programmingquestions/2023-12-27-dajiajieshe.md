@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  打家劫舍
-categories: [java,数据结构与算法,编程题]
+categories: [java,算法,编程题]
 description: 打家劫舍。
 keywords: 编程题
 ---
