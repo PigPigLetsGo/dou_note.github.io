@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  旋转图像
-categories: [java,数据结构与算法,编程题]
+categories: [java,算法,编程题]
 description: 旋转图像。
 keywords: 编程题
 ---
