@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  栈
-categories: [java]
+categories: [java,数据结构与算法]
 description: 栈的详细介绍与波兰计算器。
 keywords: 数据结构
 ---
