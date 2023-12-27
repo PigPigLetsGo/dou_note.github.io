@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  基数排序
-categories: [java,数据结构与算法,排序]
+categories: [java,数据结构与算法,算法,排序]
 description: 基数排序的详细介绍。
 keywords: 算法
 ---
