@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  稀疏数组
-categories: Algorithm
+categories: array
 description: 如何将二维数组转换为稀疏数组。
 keywords: 算法
 ---
