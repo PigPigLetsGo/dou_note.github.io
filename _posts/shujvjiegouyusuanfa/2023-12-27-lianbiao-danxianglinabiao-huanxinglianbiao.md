@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  队列
+title:  链表
 categories: [java]
-description: 队列的详细介绍。
+description: 链表的详细介绍。
 keywords: 数据结构
 ---
 
