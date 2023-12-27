@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  冒泡排序
-categories: [java,数据结构与算法]
+categories: [java,数据结构与算法,排序]
 description: 冒泡排序的详细介绍。
 keywords: 冒泡排序
 ---
