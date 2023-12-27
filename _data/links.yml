@@ -1,9 +1,9 @@
-- name: 码志
-  url: http://mazhuang.org
+- name: 掘金
+  url: https://juejin.cn/user/1596945199793127
   src: life
 
-- name: Connie 酱
-  url: https://connie99.github.io
+- name: B站
+  url: https://space.bilibili.com/1859209625?spm_id_from=..0.0
   src: life
 
 - name: 只宁静不致远
