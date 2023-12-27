@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  递归
-categories: [java]
-description: 递归的详细介绍。
+title:  选择排序
+categories: [java,数据结构与算法]
+description: 选择排序的详细介绍。
 keywords: 数据结构
 ---
 
