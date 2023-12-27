@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ASCII
-categories: [Java]
+categories: [ascii]
 description: ascii编码表的介绍
 keywords: Java, FreeMarker, IDEA, SpringBoot
 mermaid: false
