@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  队列
-categories: [java,数据结构与算法]
+categories: [java,数据结构与算法,队列]
 description: 队列的详细介绍。
 keywords: 数据结构
 ---
