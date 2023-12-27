@@ -169,7 +169,7 @@ beaudar:
 # giscus 配置参考：https://giscus.app/zh-CN
 giscus:
     repo: PigPigLetsGo/Pinglun
-    repo-id: R_kgD0K9_qWQ
+    repo-id: R_kgDOK9_qWQ
     category: Announcements
     category-id: DIC_kwDOK9_qWc4CcA4a
 # 在使用其它评论组件时可点击显示 Disqus
