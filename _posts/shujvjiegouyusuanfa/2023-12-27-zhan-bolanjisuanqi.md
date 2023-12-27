@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  队列
+title:  栈
 categories: [java]
-description: 队列的详细介绍。
+description: 栈的详细介绍与波兰计算器。
 keywords: 数据结构
 ---
 
