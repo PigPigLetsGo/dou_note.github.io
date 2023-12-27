@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java｜SpringBoot 项目开发时，让 FreeMarker 文件编辑后自动更新
+title: ASCII
 categories: [Java]
 description: FreeMarker 文件编辑后，如果每次都需要重启才能看到效果，那效率会非常低下。通过一些配置可以让它们自动更新。
 keywords: Java, FreeMarker, IDEA, SpringBoot
