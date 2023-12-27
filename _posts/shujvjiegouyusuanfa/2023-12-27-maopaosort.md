@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  递归
-categories: [java]
-description: 递归的详细介绍。
-keywords: 数据结构
+title:  冒泡排序
+categories: [java,数据结构与算法]
+description: 冒泡排序的详细介绍。
+keywords: 冒泡排序
 ---
 
 ### 冒泡排序
