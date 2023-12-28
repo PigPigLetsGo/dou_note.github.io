@@ -163,10 +163,10 @@ gitalk:
     clientSecret: 19b2f9d18fee765487cc4dd9df5c391f95c06fec
 # utterances 配置参考：https://utteranc.es/
 utterances:
-    repo: mzlogin/blog-comments
+    repo: PigPigLetsGo/Pinglunqu
 # beaudar 配置参考：https://beaudar.lipk.org/
 beaudar:
-    repo: mzlogin/blog-comments
+    repo: PigPigLetsGo/Pinglunqu
 # giscus 配置参考：https://giscus.app/zh-CN
 giscus:
     repo: PigPigLetsGo/Pinglun
@@ -174,7 +174,7 @@ giscus:
     category: Announcements
     category-id: DIC_kwDOK9_qWc4CcA4a
 # 在使用其它评论组件时可点击显示 Disqus
-lazy_load_disqus : false
+lazy_load_disqus : true
 
 # ---------------- #
 #      Search      #
