@@ -150,11 +150,11 @@ disqus:
     username: 
 # gitment 配置参考：https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
-    repo: blog-comments
+    owner: PigPigLetsGo
+    repo: Pinglun
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: 94a6fea58c3357e65bac
+        client_secret: 19b2f9d18fee765487cc4dd9df5c391f95c06fec
 # gitalk 配置参考：https://github.com/gitalk/gitalk#install
 gitalk:
     owner: PigPigLetsGo
