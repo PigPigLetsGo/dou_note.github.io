@@ -14,11 +14,15 @@ keywords: 编程题
 
 示例:
 
-![1](https://raw.githubusercontent.com/PigPigLetsGo/imeages/master/202312272044174.jpg)提示:
+![1](https://raw.githubusercontent.com/PigPigLetsGo/imeages/master/202312272044174.jpg)
+
+提示:
 n == matrix.length == matrix[i].length
 1 <= n <= 20
 -1000 <= matrix[i][j] <= 1000
+
 思路: 
+
 1.定义for循环遍历长度/2减去一半,交换上层和 长度-i-1层即可如果是3*3则交换上层和下层
 2.定义for循环进行对折交换
 3.打印
