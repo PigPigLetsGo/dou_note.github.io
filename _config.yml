@@ -17,7 +17,7 @@ repository: PigPigLetsGo/dou_note.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
-        enabled: false
+        enabled: true
 # 可选组件配置
 components:
     # 分享
@@ -182,7 +182,7 @@ simple_jekyll_search:
     # 是否支持全文搜索
     fulltext: true
     # 最多显示多少条搜索结果
-    limit: 10
+    limit: 6
 
 # ---------------- #
 #      Google      #
