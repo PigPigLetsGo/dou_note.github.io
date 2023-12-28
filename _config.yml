@@ -4,10 +4,10 @@
 baseurl:
 url: https://pigpigletsgo.github.io/dou_note.github.io
 date_format: "ordinal"
-title: 代码仓库
-subtitle: "Pig的个人博客"
-description: "Pig"
-keywords: 个人，大众
+title: 代码仓库-dou学习或日常笔记
+subtitle: "个人博客"
+description: "代码仓库-dou学习或日常笔记"
+keywords: 代码仓库-dou学习或日常笔记
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
@@ -28,7 +28,7 @@ components:
     # 不蒜子访问统计
     busuanzi:
         enabled: true
-        start_date: 2020-05-03
+        start_date: 2023-11-27
     # My Popular Repositories
     side_bar_repo:
         enabled: false
@@ -58,10 +58,10 @@ highlight_theme: github
 #      Author      #
 # ---------------- #
 author: Dkx
-organization: 
+organization: 行星
 organization_url: 
-github_username: dkx
-location: Wuhan, China
+github_username: PigPigLetsGo
+location: solar system
 email: 1851644015@qq.com
 
 # ---------------- #
