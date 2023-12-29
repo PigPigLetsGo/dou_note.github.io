@@ -64,7 +64,7 @@ keywords: 算法
 
 代码实现
 
-
+```java
 @SuppressWarnings("all")
 public class PrimAlgorithm {
     public static void main(String[] args) {
@@ -94,7 +94,6 @@ public class PrimAlgorithm {
 //创建最小生成树
 @SuppressWarnings("all")
 class MiniTree {
-
     /**
      * 创建图的邻接矩阵
      *
@@ -111,7 +110,6 @@ class MiniTree {
                 graph.weight[i][j] = weight[i][j];
         }
     }
-
     /**
      * 显示图的邻接矩阵
      *
@@ -121,7 +119,6 @@ class MiniTree {
         for (int[] itemp : graph.weight)
             System.out.println(Arrays.toString(itemp));
     }
-
     /**
      * 编写prim算法，得到最小生成树
      *
@@ -168,14 +165,13 @@ class MGraph {
     int vertx;//表示图的节点个数
     char[] data;//存放节点数据
     int[][] weight;//存放边，就是邻接矩阵
-
     public MGraph(int vertx) {
         this.vertx = vertx;
         data = new char[vertx];
         weight = new int[vertx][vertx];
     }
 }
-
+```
 
 结果：
 
