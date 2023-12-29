@@ -65,7 +65,7 @@ keywords: 算法
 代码实现
 
 ```java
-
+{}
 @SuppressWarnings("all")
 public class PrimAlgorithm {
     public static void main(String[] args) {
@@ -175,7 +175,6 @@ class MGraph {
         data = new char[vertx];
         weight = new int[vertx][vertx];
     }
-}
 }
 
 ```
