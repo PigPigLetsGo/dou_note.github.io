@@ -176,6 +176,7 @@ class MGraph {
         weight = new int[vertx][vertx];
     }
 }
+}
 
 ```
 
