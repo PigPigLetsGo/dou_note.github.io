@@ -63,7 +63,7 @@ keywords: 算法
 ![image-20230716102343503](https://raw.githubusercontent.com/PigPigLetsGo/imeages/master/202307161023485.png)
 
 代码实现
-
+{% raw %}
 ```java
 @SuppressWarnings("all")
 public class PrimAlgorithm {
@@ -190,3 +190,4 @@ class MGraph {
 边 <F,D> 权值: 4
 边 <A,C> 权值: 7
 ```
+{% endraw %}
