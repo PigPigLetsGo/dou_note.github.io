@@ -51,20 +51,22 @@ public class BinarySearchNoRecur {
         while(left <= last){
             //每次执行折半处理 计算出 数列的中间位置进行查找目标值
             int mid = (left + last) / 2;
-            //判断中间的值是否小于目标值
-            if(arr[mid] < value)
-                //如果中间值小于目标值则将指针向前移动
-                last = mid - 1;
-            //判断中间值是否大于目标值
-            else if(arr[mid] > value)
-                //如果中间值大于了目标值则将指针向后移动
-                left = mid + 1;
-            else
-                //两者都没有执行则说明找到了目标值直接返回
+             // 判断中间的值是否小于目标值
+            if (arr[mid] < value) {
+                // 如果中间值小于目标值则将指针向后移动
+                left = mid + 1; // 应该向后移动
+            } 
+            // 判断中间值是否大于目标值
+            else if (arr[mid] > value) {
+                // 如果中间值大于了目标值则将指针向前移动
+                right = mid - 1; // 应该向前移动
+            } 
+            else {
+                // 找到目标值
                 return mid;
-        }
-        //如果没有找到则返回-1
-        return -1;
+            }
+            //如果没有找到则返回-1
+            return -1;
     }
 }
 ```
